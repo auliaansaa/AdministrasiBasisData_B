@@ -1,5 +1,5 @@
--- Nama : Puri Purna Magfirah
--- NIM : 23241071
+-- Nama : auliaansaa
+-- NIM : 23241067
 -- Kelas : B 
 
 -- membuat database
@@ -58,5 +58,3 @@ SELECT * FROM member;
       
       
       
-      
-   
