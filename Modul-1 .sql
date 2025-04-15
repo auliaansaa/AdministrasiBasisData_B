@@ -1,5 +1,5 @@
--- Nama : auliaansaa
--- NIM : 23241067
+-- Nama : Puri Purna Magfirah
+-- NIM : 23241071
 -- Kelas : B 
 
 -- membuat database
