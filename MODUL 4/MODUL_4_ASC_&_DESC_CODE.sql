@@ -171,10 +171,3 @@ SUM((harga * qty) - diskon_persen), qty AS total_penjualan
 FROM tr_penjualan
 GROUP BY nama_produk
 ORDER BY total_penjualan DESC;
-
-
-
--- tugas yang sudah di acc (langsung) PART 1
-SELECT * from tr_penjualan;
-SELECT tgl_transaksi, nama_produk FROM tr_penjualan where qty < 10 AND month(tgl_transaksi) > 5;
-
